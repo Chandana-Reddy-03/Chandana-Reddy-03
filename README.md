@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Chandana-Reddy-03
 - 👀 I’m interested in learning programing
-- 🌱 I’m currently learning cprogramming
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python
 - 📫 How to reach me at my insta id @chandana._reddy_
 
 <!---
